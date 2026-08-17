@@ -1,4 +1,4 @@
-import {ChangeEvent, FC, useCallback, useState} from 'react';
+import {ChangeEvent, useState} from 'react';
 
 const CONTAINER_STYLES = {display: 'flex', flexDirection: 'column', gap: 10};
 
